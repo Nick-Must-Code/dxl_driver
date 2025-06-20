@@ -2,7 +2,7 @@
 #
 # General Dynamixel Robot Driver
 #
-# Auth: N. Kosanovic
+# Auth: N. K
 # Date: 12 June. 2025
 # Desc: Concise general-purpose implementation of Dynamixel SDK functions for robots. 
 #       For the most part, all you really need is to repeatedly read joint positions and command currents.
